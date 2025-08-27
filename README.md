@@ -30,7 +30,7 @@ To build and test this project, you will need:
 **1. Clone the repository:**
 ```bash
 #  repository URL
-git clone 
+git clone https://github.com/ramcharannnn/cs5617SoftwareEngineering-inheritance-assignment.git
 
 2. Navigate to the project directory:
 cd your-repository-name
