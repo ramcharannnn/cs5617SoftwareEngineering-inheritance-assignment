@@ -38,14 +38,14 @@ cd your-repository-name
 Verification Commands
 This project is configured to be built and verified using Maven.  Run the following commands from the project root to ensure correctness.
 1.  **Compile Code**
-    ```bash
+    ```
     mvn clean compile
     ```
 2.  **Check Style**
-    ```bash
+    ```
     mvn checkstyle:check
     ```
 3.  **Run Tests**
-    ```bash
+    ```
     mvn test
     ```
