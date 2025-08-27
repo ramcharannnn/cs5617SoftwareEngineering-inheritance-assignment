@@ -29,8 +29,8 @@ To build and test this project, you will need:
 
 **1. Clone the repository:**
 ```bash
-# Replace with your actual repository URL
-git clone 
+#  repository URL
+git clone https://github.com/ramcharannnn/cs5617SoftwareEngineering-inheritance-assignment.git
 
 2. Navigate to the project directory:
 cd your-repository-name
